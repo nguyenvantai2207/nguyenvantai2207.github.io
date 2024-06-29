@@ -55,21 +55,18 @@
         "2. These systems must be protected against unauthorized access by intruders who may attempt to manipulate the ECU software (e.g. tuning) or manipulate the vehicle’s anti-theft mechanism (immobilizer).",
         "3. There is also a risk that criminals could misuse the internet connection of the vehicle to access the in-vehicle communication system and carry out targeted manipulation of the vehicle’s behaviour.",
         "4. HSM security firmware ensures secure boot of the ECU, secure in-vehicle communication, ECU component protection and secure flashing.",
-        "Therefore, I need to make sure: 
-        1. Understand security concepts and improve vulnerability which can be attacked 
-        2. Implement these features protect communication in the automotive system 
-        3. Porting new ECUs to support our firmware"
+        "Therefore, I need to make sure: 1. Understand security concepts and improve vulnerability which can be attacked 2. Implement these features to protect communication in the automotive system 3. Porting new ECUs to support our firmware"
       ]
     },
     {
       "company": "SVN Automation",
-      "position": "Engineering technicia",
+      "position": "Engineering technician",
       "website": "https://svnautomation.com",
       "startDate": "2020-10-01",
       "endDate": "2022-04-30",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware for IIoT system",
+        "Troubleshoot software, and hardware for IIoT system",
         "Research on new speech models, discovery models for application in the industry",
         "Research on collaborative robots such as ARM robots, AGV car"
       ]
