@@ -51,11 +51,12 @@
       "endDate": "Present",
       "summary": "Full Stack developer",
       "highlights": [
-        "1. Modern vehicles are increasingly equipped with internet connectivity, which in turn is making vehicle IT systems more vulnerable to attacks.",
-        "2. These systems must be protected against unauthorized access by intruders who may attempt to manipulate the ECU software (e.g. tuning) or manipulate the vehicle’s anti-theft mechanism (immobilizer).",
-        "3. There is also a risk that criminals could misuse the internet connection of the vehicle to access the in-vehicle communication system and carry out targeted manipulation of the vehicle’s behaviour.",
-        "4. HSM security firmware ensures secure boot of the ECU, secure in-vehicle communication, ECU component protection and secure flashing.",
-        "Therefore, I need to make sure: 1. Understand security concepts and improve vulnerability which can be attacked 2. Implement these features to protect communication in the automotive system 3. Porting new ECUs to support our firmware"
+        "Modern vehicles are increasingly equipped with internet connectivity, making vehicle IT systems more vulnerable to attacks. These systems must be protected against unauthorized access by intruders who may attempt to manipulate the ECU software (e.g. tuning) or manipulate the vehicle’s anti-theft mechanism (immobilizer).", 
+        "There is also a risk that criminals could misuse the vehicle's internet connection to access the in-vehicle communication system and carry out targeted manipulation of the vehicle’s behaviour. HSM security firmware ensures secure boot of the ECU, secure in-vehicle communication, ECU component protection and secure flashing.",
+        "Therefore, I need to make sure: 
+        1. Understand security concepts and improve vulnerability which can be attacked 
+        2. Implement these features to protect communication in the automotive system 
+        3. Porting new ECUs to support our firmware"
       ]
     },
     {
