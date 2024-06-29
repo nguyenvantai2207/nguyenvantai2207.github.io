@@ -7,7 +7,7 @@
     "phone": "0385-207-xxx",
     "website": "https://nguyenvantai2207.github.io",
     "summary": "I received B.E. degree in Computer engineering technology from Ho Chi Minh City University of Technology and Education (HCMUTE), Vietnam, in 2021.",
-    "location": { "address": "", "postalCode": "96822", "city": "Hồ Chí Minh", "countryCode": "VN", "region": "Việt Nam" },
+    "location": { "address": "Thủ Đức", "postalCode": "", "city": "Hồ Chí Minh", "countryCode": "", "region": "Việt Nam" },
     "profiles": [
       { "network": "github", "username": "nguyenvantai2207", "url": "http://github.com/nguyenvantai2207" },
       { "network": "linkedin", "username": "Nguyen Van Tai", "url": "https://www.linkedin.com/in/nguyen-van-tai-25b981234" },
